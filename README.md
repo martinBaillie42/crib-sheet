@@ -13,3 +13,37 @@ var objectInstance = new ConstructorFunction();
 ```
 #### Hard binding
 
+## Typescript Diagramming
+### Static Structure Diagrams - Object Notation
+#### Objects
+**Object**
+
+|ObjectName|
+|---|
+| property: type |
+| method(argument: type) : returnType |
+
+**Class object and Abstract class objects**
+
+|ObjectName|
+|---|
+| +publicProperty: type |
+| -privateProperty: type |
+| #protectedProperty: type |
+| +publicMethod(argument: type) : returnType |
+| -privateMethod(argument: type) : returnType |
+| #protectedMethod(argument: type) : returnType |
+
+For a Class object prefix ObjectName with 'C'. For Abstract Class object prefix ObjectName with 'A'.
+
+**Interface object**
+
+|IObjectName|
+|---|
+| property: type |
+| method(argument: type) : returnType |
+
+**Function object**
+
+| ObjectName(argument: type) : returnType |
+|---|
