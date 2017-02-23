@@ -25,7 +25,7 @@ var objectInstance = new ConstructorFunction();
 
 **Class object and Abstract class objects**
 
-|ObjectName|
+|CObjectName|
 |---|
 | +publicProperty: type |
 | -privateProperty: type |
@@ -34,7 +34,7 @@ var objectInstance = new ConstructorFunction();
 | -privateMethod(argument: type) : returnType |
 | #protectedMethod(argument: type) : returnType |
 
-For a Class object prefix ObjectName with 'C'. For Abstract Class object prefix ObjectName with 'A'.
+For Abstract Class object prefix ObjectName with 'AC'.
 
 **Interface object**
 
