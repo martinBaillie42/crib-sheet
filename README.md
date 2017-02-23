@@ -43,11 +43,6 @@ For Abstract Class object prefix ObjectName with 'AC'.
 | property: type |
 | method(argument: type) : returnType |
 
-**Function object**
-
-| ObjectName(argument: type) : returnType |
-|---|
-
 ###Inheritance
 |BaseClass| 
 |---|         
