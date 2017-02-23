@@ -14,16 +14,14 @@ var objectInstance = new ConstructorFunction();
 #### Hard binding
 
 ## Typescript Diagramming
-### Static Structure Diagrams - Object Notation
-#### Objects
-**Object**
+### Object Diagrams
+#### Object
 
 |ObjectName|
 |---|
 | property: type |
 | method(argument: type) : returnType |
-
-**Class object and Abstract class objects**
+#### Class object and Abstract class objects
 
 |CObjectName|
 |---|
@@ -36,14 +34,14 @@ var objectInstance = new ConstructorFunction();
 
 For Abstract Class object prefix ObjectName with 'AC'.
 
-**Interface object**
+#### Interface object
 
 |IObjectName|
 |---|
 | property: type |
 | method(argument: type) : returnType |
 
-###Inheritance
+#### Inheritance
 |BaseClass| 
 |---|         
 |+setProperty(arg: string)|
