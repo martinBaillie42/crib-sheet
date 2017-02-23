@@ -47,3 +47,18 @@ For Abstract Class object prefix ObjectName with 'AC'.
 
 | ObjectName(argument: type) : returnType |
 |---|
+
+###Inheritance
+|BaseClass| 
+|---|         
+|+setProperty(arg: string)|
+
+  ^  
+  |
+ 
+|SubClass|    
+|---|
+|+setProperty(arg: string)|
+|+setAnotherProperty(arg: number)|
+
+The SubClass extends the BaseClass
