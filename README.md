@@ -13,6 +13,8 @@ var objectInstance = new ConstructorFunction();
 ```
 #### Hard binding
 
+TODO: Add more. See notebook
+
 ## Typescript Diagramming
 ### Object Diagrams
 #### Object
@@ -56,3 +58,5 @@ For Abstract Class object prefix ObjectName with 'AC'.
 
 The SubClass extends the BaseClass
 ### RHS and LHS
+TODO: add more - see Kyle video
+
