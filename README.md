@@ -55,3 +55,4 @@ For Abstract Class object prefix ObjectName with 'AC'.
 |+setAnotherProperty(arg: number)|
 
 The SubClass extends the BaseClass
+### RHS and LHS
